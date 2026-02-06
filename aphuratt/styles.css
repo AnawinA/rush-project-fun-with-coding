@@ -75,6 +75,7 @@ h1 {
     font-weight: 900;
     overflow-wrap: break-word;
     word-wrap: break-word;
+    margin-bottom: 0;
 }
 
 h2 {
